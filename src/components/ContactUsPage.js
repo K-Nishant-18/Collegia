@@ -606,7 +606,7 @@ const ContactUsPage = () => {
               <InfoContent>
                 <h3>Call Us</h3>
                 <p>
-                  <a href="tel:+15551234567">+91 8986412823</a>
+                  <a href="tel:+91 8986412823">+91 8986412823</a>
                 </p>
                 <p>Mon-Fri: 9am-5pm IST</p>
               </InfoContent>
